@@ -277,9 +277,7 @@ Proyek ini mengimplementasikan API RESTful untuk mengelola rak buku menggunakan 
   - **Response Body**:
     ```json
     {
-        "status": "fail
-
-",
+        "status": "fail",
         "message": "Buku gagal dihapus. Id tidak ditemukan"
     }
     ```
